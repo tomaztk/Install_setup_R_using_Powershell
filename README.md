@@ -1,6 +1,6 @@
 # Install R using Powershell and setting up R environment
 Installing R and RStudio and setup R using Powershell for the purposes of testing different R versions.
-Reference to blog: (https://wordpress.com/post/tomaztsql.wordpress.com/5191).
+Reference to blog: (https://tomaztsql.wordpress.com/2019/02/18/installing-r-using-powershell/).
 
 ## Structure
 
